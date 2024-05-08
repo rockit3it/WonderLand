@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "FullStack",
+			"path": "."
+		},
+		{
+			"name": "WonderLands",
+			"path": "../../WonderLands"
+		}
+	],
+	"settings": {}
+}
